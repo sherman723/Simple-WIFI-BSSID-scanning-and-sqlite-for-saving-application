@@ -1,0 +1,32 @@
+					Situation
+You would like to try to create an offline database of the Wi-Fi BSSID, 
+Wi-Fi SSID and the geographical locations by wardriving method as what Google cars did few years ago:
+
+1) Use the GPS function to locate the longitude and latitude.
+
+2) Scan the Wi-Fi BSSID and SSID around
+
+3) Save the data logged to a file/email
+
+
+
+
+
+
+						What do the app do
+	
+	1.Display current latitude and longitude
+
+	2.Scan the BSSID and SSID in surrounding using Wifi manager and display them in list view
+	
+	3.Use sqlite to provide save and open function.
+
+	4.Able to send out the saved data through email application, with auto-fill in the address , data and title.
+
+
+
+
+
+
+***************************************************************************************************************************************
+	
